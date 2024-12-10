@@ -3,8 +3,7 @@
 
 	const config: IConfig = {
 		url: 'https://app.unleash-hosted.com/demo/api/frontend',
-		clientKey:
-			'custom-context-test:default.dfb62cbcda870f2c6516e19dcf40ededd70799d7c9fe50c64e894a26',
+		clientKey: 'svelte-demo:development.1b19ac66c94211d8f08148d0a68463b05503d37acd01b670160b04bf',
 		refreshInterval: 2,
 		appName: 'svelte-sdk-demo',
 		context: {

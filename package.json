@@ -29,6 +29,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@unleash/proxy-client-svelte": "^0.3.0"
+		"@unleash/proxy-client-svelte": "^0.4.0"
 	}
 }

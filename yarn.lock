@@ -400,10 +400,10 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@unleash/proxy-client-svelte@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@unleash/proxy-client-svelte/-/proxy-client-svelte-0.3.0.tgz#50a11d687b9b7d2bbddd952801b4a75b269c43c1"
-  integrity sha512-GjbizdcWHdPvHOtBsInBt5N34G2Yos3hPuFCxTIcXY4BfF1fWCk/affCzksImrPbyR+y7ipbmXdrOFnXXVv91g==
+"@unleash/proxy-client-svelte@^0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@unleash/proxy-client-svelte/-/proxy-client-svelte-0.4.0.tgz#e198653fe0da4982e031fae7911579e1e692eae0"
+  integrity sha512-uqgEMybOo2LgmxtpBKXnlqyA1BOlvOzhgXQdY20m9bWVpAkE8pj6hrValgnhkvHxg+4bO8cXeOyZm6S10JulXw==
   dependencies:
     unleash-proxy-client "^3.2.0"
 
